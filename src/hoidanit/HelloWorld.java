@@ -1,0 +1,10 @@
+package hoidanit;
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("Hello World with java and Hoi Dan IT");
+		System.out.println("Hello World with java and Hoi Dan IT");
+		System.out.println("Hello World with java and Hoi Dan IT");
+	}
+
+}
